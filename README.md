@@ -1,3 +1,4 @@
+![logo]("https://github.com/nishantsingha13/nishantsingha13/blob/main/Screenshot%202024-06-22%20153041.png?raw=true")
 <h1 align="center">Hi 👋, I'm Nishant Singhal</h1>
 <h3 align="center">Self-Taught front-end developer and Passion in machine Learning</h3>
 
