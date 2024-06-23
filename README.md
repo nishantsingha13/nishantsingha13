@@ -1,6 +1,6 @@
-![logo]("https://github.com/nishantsingha13/nishantsingha13/blob/main/Screenshot%202024-06-22%20153041.png?raw=true")
+![logo]("https://www.bing.com/images/search?view=detailV2&ccid=Vs5lYM5T&id=F51E4EAC6CE73721A02D81731A7D3C96E2CFF449&thid=OIP.Vs5lYM5TBl2rH-H09nsABwHaEi&mediaurl=https%3a%2f%2fculture.mycure.md%2fwp-content%2fuploads%2f2020%2f03%2fIMG_6498-scaled.jpg&exph=1571&expw=2560&q=software+engineering&simid=608028036884227528&FORM=IRPRST&ck=7E645EF4986158E491C3515681861F25&selectedIndex=12&itb=0")
 <h1 align="center">Hi 👋, I'm Nishant Singhal</h1>
-<h3 align="center">Self-Taught front-end developer and Passion in machine Learning</h3>
+<h3 align="center">Self-Taught Machine-Learning and Front-end Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
