@@ -4,11 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Nishant Singhal</h1>
 
-<!-- Static Descriptions -->
+<!-- Animated Text GIF -->
 <div align="center">
-  <h3 align="center">Computer Science Student</h3>
-  <h3 align="center" style="display:none;">Computer Programmer</h3>
-  <h3 align="center" style="display:none;">Always Learning New Things</h3>
+  <img src="https://your-image-hosting-service.com/animated-text.gif" alt="Animated Text" width="600">
 </div>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -57,4 +55,4 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-<h3 align="center">"The best way to predict the future is to create it." - Peter Drucker</h3>
+<h3 align="center">AI/ML Enthusiast</h3>
