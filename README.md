@@ -8,7 +8,6 @@
 
 <h3 align="center">AI/ML Enthusiast</h3>
 <br><br>
-<br><br>
 
 ## About Me
 
