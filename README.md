@@ -9,7 +9,7 @@
 <h3 align="center">AI/ML Enthusiast</h3>
 <br><br>
 <br><br>
-<br><br>
+
 ## About Me
 
 I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School in Jaipur, Rajasthan. I have experience with machine learning and data analysis, and I am currently learning programming and AI/ML. 
