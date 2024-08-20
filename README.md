@@ -3,7 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Nishant Singhal</h1>
-<h3 align="center">Self-Taught Machine Learning Enthusiast</h3>
+<!-- Animated Text Images -->
+<div align="center">
+  <img src="https://github.com/nishantsingha13/nishantsingha13/assets/103675762/animated-text-1.png" alt="Computer Science Student" width="400">
+  <img src="https://github.com/nishantsingha13/nishantsingha13/assets/103675762/animated-text-2.png" alt="Computer Programmer" width="400" style="display:none;">
+  <img src="https://github.com/nishantsingha13/nishantsingha13/assets/103675762/animated-text-3.png" alt="Always Learning New Things" width="400" style="display:none;">
+</div>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
