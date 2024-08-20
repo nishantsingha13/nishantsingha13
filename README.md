@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School from Jaipur, Rajasthan. I have experience with machine learning and data analysis, and I am currently learning programming and AI/ML. 
+I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School in Jaipur, Rajasthan. I have experience with machine learning and data analysis, and I am currently learning programming and AI/ML. 
 
 - 🤔 I’m currently open for a new job opportunity.
 - 📄 [This is MY RESUME](https://drive.google.com/file/d/1UAnjDVd7FKqQSvjmmOVdeQolJhHRFeIe/view?usp=drivesdk)
@@ -16,7 +16,9 @@ I am currently studying Computer Science Engineering at SRM Institute of Science
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nishantsingha13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <p align="left">
+  <img src="https://img.shields.io/badge/Profile%20views-2000-blue" alt="nishantsingha13" />
+</p>
   <img src="https://img.shields.io/github/followers/nishantsingha13?label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/nishantsingha13?label=Stars" alt="GitHub Stars" />
 </p>
@@ -59,9 +61,10 @@ I am currently studying Computer Science Engineering at SRM Institute of Science
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="nishantsingha13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" /></p>
 
 <div align="center" style="background: url('https://your-background-image-url.com'); padding: 20px; border-radius: 10px; color: white;">
   <h3>"The best way to predict the future is to create it." - Peter Drucker</h3>
