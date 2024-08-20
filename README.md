@@ -19,6 +19,7 @@ I am currently studying Computer Science Engineering at SRM Institute of Science
 <p align="left"> 
   <p align="left">
   <img src="https://img.shields.io/badge/Profile%20views-4324-blue" alt="nishantsingha13" />
+  <img src="https://komarev.com/ghpvc/?username=nishantsingha13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/nishantsingha13?label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/nishantsingha13?label=Stars" alt="GitHub Stars" />
 </p>
