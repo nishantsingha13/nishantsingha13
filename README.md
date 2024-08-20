@@ -60,9 +60,8 @@ I am currently studying Computer Science Engineering at SRM Institute of Science
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="nishantsingha13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="nishantsingha13" /></p>
 
 <h3 align="center">
   "The best way to predict the future is to create it." - Peter Drucker
