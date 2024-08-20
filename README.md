@@ -64,7 +64,6 @@ I am currently studying Computer Science Engineering at SRM Institute of Science
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="nishantsingha13" /></p>
 
-
 <div align="center" style="background: url('https://your-background-image-url.com'); padding: 20px; border-radius: 10px; color: white;">
   <h3>"The best way to predict the future is to create it." - Peter Drucker</h3>
 </div>
