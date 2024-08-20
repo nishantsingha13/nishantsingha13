@@ -6,8 +6,17 @@
 
 <h3 align="center">AI/ML Enthusiast</h3>
 <br><br>
+<p align="left"> 
+  <p align="left">
+
+  <img src="https://komarev.com/ghpvc/?username=nishantsingha13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nishantsingha13?label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nishantsingha13?label=Stars" alt="GitHub Stars" />
+</p>
 
 ## About Me
+
+<img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 I am currently a **4th year Computer Science Engineering** <br>
 Student at **SRM Institute of Science and Technology**, KTR Chennai. 
@@ -20,15 +29,7 @@ and data analysis, and I am currently learning programming and AI/ML.
 
 
 
-<img align="top" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> 
-  <p align="left">
-
-  <img src="https://komarev.com/ghpvc/?username=nishantsingha13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/nishantsingha13?label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/nishantsingha13?label=Stars" alt="GitHub Stars" />
-</p>
 
 - 🔭 I’m currently working on **[Plant Disease Detection System](https://github.com/nishantsingha13/Plant-Disease-Detection-System)**
 - 🌱 I’m currently learning **Deep Learning, TensorFlow**
