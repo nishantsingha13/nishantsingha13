@@ -27,7 +27,7 @@ I am currently studying Computer Science Engineering at SRM Institute of Science
 - 🔭 I’m currently working on **[Plant Disease Detection System](https://github.com/nishantsingha13/Plant-Disease-Detection-System)**
 - 🌱 I’m currently learning **Deep Learning, TensorFlow**
 - 👯 I’m looking to collaborate on **Open Source ML Projects**
-- 💬 Ask me about **Python, Machine Learning, Data Science**
+- 💬 Ask me about **Machine Learning, Data Science,Data Analytics**
 - 📫 How to reach me **nishantsinghal43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
