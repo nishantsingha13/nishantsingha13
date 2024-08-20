@@ -35,18 +35,26 @@
 ## My Skills
 
 ### Frontend Development
-HTML | CSS
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend Development
-MySQL
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Programming Languages
-C | C++ | Python
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) 
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Software & Tools
-Git | GitHub | Power BI | GeeksforGeeks
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+- ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-5E5E5E?style=flat&logo=geeksforgeeks&logoColor=white)
 
 ### IDE
-Jupyter Notebook | PyCharm | Visual Studio Code
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 <h3 align="center">"The best way to predict the future is to create it." - Peter Drucker</h3>
