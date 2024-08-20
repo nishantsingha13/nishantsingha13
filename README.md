@@ -14,18 +14,22 @@
   <img src="https://img.shields.io/github/stars/nishantsingha13?label=Stars" alt="GitHub Stars" />
 </p>
 
-## About Me
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ 
 
 <img align="right" alt="coding"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<br><br>
 I am currently a **4th year Computer Science Engineering** <br>
 Student at **SRM Institute of Science and Technology**, KTR Chennai. 
 <br>I have completed my Higher Secondary and Secondary School in 
 <br>Jaipur, Rajasthan. I have experience with machine learning <br>
 and data analysis, and I am currently learning programming and AI/ML. 
-
+<br><br>
 <p>🤔 I’m currently open for a new job opportunity.</p>
 <p>📄 <a href="https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk" target="_blank">This is MY RESUME</a></p>
+
+<br>
 
 
 
@@ -37,6 +41,7 @@ and data analysis, and I am currently learning programming and AI/ML.
 - 💬 Ask me about **Machine Learning, Data Science,Data Analytics**
 - 📫 How to reach me **nishantsinghal43@gmail.com**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nishant-singhal-494778249/" target="blank">
@@ -49,6 +54,8 @@ and data analysis, and I am currently learning programming and AI/ML.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
+
+<br>
 
 ## My Skills
 
@@ -68,9 +75,10 @@ and data analysis, and I am currently learning programming and AI/ML.
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
-
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="nishantsingha13" /></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" /></p>
+<br><br> 
 
 <h3 align="center">
   "The best way to predict the future is to create it." - Peter Drucker
