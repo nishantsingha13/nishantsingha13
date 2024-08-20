@@ -33,6 +33,12 @@
   </a>
 </p>
 
+## About Me
+
+I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School from Jaipur, Rajasthan. I have experience with machine learning and data analysis, and I am currently learning programming and AI/ML. 🤔 I’m currently open for a new job opportunity. 
+
+📄 [This is MY RESUME](https://drive.google.com/file/d/1UAnjDVd7FKqQSvjmmOVdeQolJhHRFeIe/view?usp=drivesdk)
+
 ## My Skills
 
 <p align="center">
