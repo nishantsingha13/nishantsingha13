@@ -10,8 +10,8 @@
 
 I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School in Jaipur, Rajasthan. I have experience with machine learning and data analysis, and I am currently learning programming and AI/ML. 
 
-<p>🤔 I’m currently open for a new job opportunity.
-📄 [This is MY RESUME](https://drive.google.com/file/d/1UAnjDVd7FKqQSvjmmOVdeQolJhHRFeIe/view?usp=drivesdk)</p>
+<p>🤔 I’m currently open for a new job opportunity.</p>
+<p>📄 [This is MY RESUME](https://drive.google.com/file/d/1UAnjDVd7FKqQSvjmmOVdeQolJhHRFeIe/view?usp=drivesdk)</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
