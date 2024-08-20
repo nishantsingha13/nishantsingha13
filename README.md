@@ -9,7 +9,7 @@
 ## About Me
 
 <p align="center">
-  I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School from Jaipur, Rajasthan. I have experience with machine learning and data analysis and am currently learning programming and AI/ML.
+  I am currently studying Computer Science Engineering at SRM Institute of Science and Technology, KTR Chennai. I have completed my Higher Secondary and Secondary School in Jaipur, Rajasthan. I have experience with machine learning and data analysis and am currently learning programming and AI/ML.
 </p>
 
 <p align="center">
