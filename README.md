@@ -9,7 +9,7 @@
 
 <!-- Custom badge for profile views -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile%20views-2600-blue" alt="nishantsingha13" />
+  <img src="https://img.shields.io/badge/Profile%20views-4853-blue" alt="nishantsingha13" />
 </p>
 
 - 📫 How to reach me **nishantsinghal43@gmail.com**
