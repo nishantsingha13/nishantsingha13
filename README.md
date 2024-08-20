@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Nishant Singhal</h1>
 
-<br><br>
-
 <h3 align="center">AI/ML Enthusiast</h3>
 <br><br>
 
