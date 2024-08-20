@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Profile%20views-2600-blue" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=nishantsingha13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/nishantsingha13?label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/nishantsingha13?label=Stars" alt="GitHub Stars" />
 </p>
@@ -66,11 +66,4 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantsingha13&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantsingha13&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="GitHub Streak" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nishantsingha13"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a></p>
+<h3 align="center">"The best way to predict the future is to create it." - Peter Drucker</h3>
