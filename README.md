@@ -12,7 +12,8 @@
 I am currently a **4th year Computer Science Engineering** Student at **SRM Institute of Science and Technology**, KTR Chennai. I have completed my Higher Secondary and Secondary School in Jaipur, Rajasthan. I have experience with machine learning and data analysis, and I am currently learning programming and AI/ML. 
 
 <p>🤔 I’m currently open for a new job opportunity.</p>
-<p>📄 <a "[href="https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk](https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk)" target="_blank">This is MY RESUME</a></p>
+<p>📄 <a href="https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk" target="_blank">This is MY RESUME</a></p>
+
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
