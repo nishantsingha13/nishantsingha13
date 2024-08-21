@@ -83,7 +83,8 @@ and data analysis, and I am currently learning programming and AI/ML.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantsingha13&" alt="nishantsingha13" /></p>
 <br><br> 
 
-<h3 align="center">
-  "The best way to predict the future is to create it." - Peter Drucker
-</h3>
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
