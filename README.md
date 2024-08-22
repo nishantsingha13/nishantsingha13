@@ -30,7 +30,7 @@ Student at SRM Institute of Science and Technology, KTR Chennai.
 and data analysis, and I am currently learning programming and AI/ML. 
 <br><br>
 <p>🤔 I’m currently open for a new job opportunity.</p>
-<p>📄 <a href="https://drive.google.com/file/d/1UZOc6iOXJC5H8GXxG67mv-QL7h7IV3fR/view?usp=drivesdk" target="_blank">This is MY RESUME</a></p>
+<p>📄 <a href="https://drive.google.com/file/d/1VDxRvcFcqAFYQVQrptJp8FBocSOx_8Xd/view?usp=drivesdk" target="_blank">This is MY RESUME</a></p>
 
 <br>
 
