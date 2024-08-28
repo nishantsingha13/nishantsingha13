@@ -38,7 +38,7 @@ and data analysis, and I am currently learning programming and AI/ML.
 
 
 
-- 🔭 I’m currently working on **[Sonic-Voice-Assistance](https://github.com/nishantsingha13/Plant-Disease-Detection-System)**
+- 🔭 I’m currently working on **[Sonic-Voice-Assistance]((https://github.com/nishantsingha13/Sonic-Voice-Assistance/blob/main/README.md))**
 - 🌱 I’m currently learning **Deep Learning, TensorFlow**
 - 👯 I’m looking to collaborate on **Open Source ML Projects**
 - 💬 Ask me about **Machine Learning, Data Science,Data Analytics**
